@@ -1,0 +1,14 @@
+.cabecalho{
+   width: 100%;
+   height: auto;
+   background-color: blue;
+   text-align: center;
+}
+
+h1{
+   color: white;
+}
+
+p{
+  color: aliceblue;
+}

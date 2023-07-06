@@ -1,0 +1,30 @@
+.conteudo1{
+    width: 100%;
+    height: auto;
+    background-color: burlywood;
+}
+
+h1{
+  color: black;
+  text-align: center;
+}
+
+h2{
+  color: black;
+  text-align: center;
+}
+
+p{
+  color: white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.loren{
+  width: 50%;
+  display: inline-block;
+}
+.ipsulum{
+  width: 50%;
+  display: inline-block
+}
